@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+# production
+/build
+.idea
+*.iml
+
 # next.js
 /.next/
 /out/
